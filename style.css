@@ -118,9 +118,18 @@ img {
   width: auto;
 }
 
-.nav-logo span span {
-  color: var(--primary-dark);
+.text-red {
+  color: #e63946 !important;
 }
+
+.text-blue {
+  color: #03A9F4 !important;
+}
+
+/* .nav-logo span span {
+  color: var(--primary-dark);
+} */
+
 
 .nav-links {
   display: flex;
